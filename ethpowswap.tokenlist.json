@@ -1,0 +1,56 @@
+{
+  "name": "EthPowSwap",
+  "logoURI": "https://gateway.pinata.cloud/ipfs/QmdDs4wJuApVgP7PaVcv5a1CqLVbx8aiLtvAnhbvcLGRjt",
+  "keywords": [
+    "EthPowSwap",
+    "defi"
+  ],
+  "timestamp": "2022-10-05T20:37:00.000+00:00",
+  "tokens": [
+    {
+      "name": "Wrapped ETHPOW",
+      "address": "0x44DCEdD77713596f9d9b4ca3B059cDb17617963c",
+      "symbol": "WETHW",
+      "decimals": 18,
+      "chainId": 10001,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/QmdDs4wJuApVgP7PaVcv5a1CqLVbx8aiLtvAnhbvcLGRjt"
+    },
+    {
+      "chainId": 10001,
+      "address": "0xC0e21434abb848fF40ff293DdF31128383f9e8Bd",
+      "name": "USDT",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/QmQYqZ7Ad63yQZpfNxSvcG7VTL6WfbytKbtaB55y4vzqG2"
+    },
+    {
+      "chainId": 10001,
+      "address": "0x152F3F7E72367cD62fE0E292d3E4672f1D40f465",
+      "name": "ETHWKING",
+      "symbol": "ETHWKING",
+      "decimals": 6,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/Qmc7Cki15Wp2D6Z42qwSrETnxkTUjkyQJhrNkvZ2FBzWc8"
+    },
+    {
+      "chainId": 10001,
+      "address": "0x0d0257d46e4acb26df0e68d48bd253b68a9a0a14",
+      "name": "shibaW",
+      "symbol": "shibaW",
+      "decimals": 9,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/QmXLtajQMRUJyi1ZmFAg2wrDQPSX7r2nwQkHLxc7wg72CB"
+    },
+    {
+      "chainId": 10001,
+      "address": "0xe8a383BB9D29b574011fdf6A1FFd900d29062Bb4",
+      "name": "EthPow",
+      "symbol": "EthPow",
+      "decimals": 9,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/Qmf5qevPZRSMA5JmE234KqsdRY9KWC1zEHbvmCkxhkgpzf"
+    }
+  ],
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  }
+}
