@@ -25,14 +25,6 @@
     },
     {
       "chainId": 10001,
-      "address": "0x152F3F7E72367cD62fE0E292d3E4672f1D40f465",
-      "name": "ETHWKING",
-      "symbol": "ETHWKING",
-      "decimals": 6,
-      "logoURI": "https://gateway.pinata.cloud/ipfs/Qmc7Cki15Wp2D6Z42qwSrETnxkTUjkyQJhrNkvZ2FBzWc8"
-    },
-    {
-      "chainId": 10001,
       "address": "0x0d0257d46e4acb26df0e68d48bd253b68a9a0a14",
       "name": "shibaW",
       "symbol": "shibaW",
